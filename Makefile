@@ -1,3 +1,4 @@
+CCS ?= cc
 CC_OPTS = -Wall -Werror
 CCS += $(CC_OPTS)
 
